@@ -1,0 +1,1 @@
+Main Activity - sets up the tab layout, and toolbar. Holds an instance of a view pager to st up the tabs. 

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Huffman Encoding</string>
+    <string name="encode_input">Text to Encode</string>
+    <string name="encode_status_done">Completed</string>
+    <string name="encode_status_not_done">Processing...</string>
+    <string name="encoded">Encoded Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
